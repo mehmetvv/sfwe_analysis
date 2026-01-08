@@ -1,1 +1,0 @@
-# sfwe_analysis
